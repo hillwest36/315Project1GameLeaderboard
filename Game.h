@@ -38,4 +38,9 @@ public:
 	{
 		return victories;
 	}
+
+	string getName()
+	{
+		return gameName;
+	}
 };

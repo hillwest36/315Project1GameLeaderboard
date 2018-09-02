@@ -23,4 +23,19 @@ public:
 	{
 		return vicID;
 	}
+
+	int getPoints()
+	{
+		return vicPoints;
+	}
+
+	int getGameID()
+	{
+		return gameID;
+	}
+
+	string getName()
+	{
+		return vicName;
+	}
 };
